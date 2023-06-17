@@ -2,6 +2,9 @@
 // The port the server will run is 8080
 // The server can be found at `http://127.0.0.1:8080`
 
+// The Tutorial I followed can be found at the following link:
+// https://yew.rs/docs/getting-started/build-a-sample-app
+
 use yew::prelude::*;
 
 #[function_component]
